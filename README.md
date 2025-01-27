@@ -9,7 +9,7 @@
 ## 📌 About Me  
 
 🎓 **Education:** [University of Houston](https://www.uh.edu/nsm/computer-science/)  
-📂 **Resume:** [Download My Resume]([file:///C:/Users/arsal/Documents/RESUME_5.pdf](https://github.com/afavakeh/afavakeh22/blob/main/RESUME_5.pdf))  
+📂 **Resume:** [Download My Resume](https://github.com/afavakeh/afavakeh22/blob/main/RESUME_5.pdf)  
 🔗 **LinkedIn:** [www.linkedin.com/in/afavakeh](https://www.linkedin.com/in/afavakeh)  
 📫 **Email:** arsalan.favakeh@gmail.com  
 
