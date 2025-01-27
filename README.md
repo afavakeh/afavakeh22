@@ -22,11 +22,28 @@
 ## 🏆 **Computer Science Projects**  
   
 
-### 🔹 Network Security & Traffic Analysis  
-- **NetAnalyzer Suite** 🌐  
-  - Analyzed **5GB+ of .har & .pcap files** for protocol distribution, download sizes & real-time packet capture  
-  - Built **interactive visualizations with Matplotlib & Plotly**  
-  - [🔗 Source Code](https://github.com/your-github/net-analyzer-suite)  
+### 🔹 NetAnalyzer Suite 🌐  
+📌 **Description:**  
+- A powerful Python-based **network traffic analysis tool** designed for processing large `.har` and `.pcap` files.  
+- Provides real-time **download size, average latency, protocol distributions**, and **IP mappings**.  
+- **Automated visualizations** for data interpretation using Matplotlib and Plotly.  
+
+📂 **Project Folder:** [NetAnalyzer-Suite](https://github.com/YOUR-GITHUB-USERNAME/YOUR-REPO-NAME/tree/main/NetAnalyzer-Suite)  
+📜 **Code & Documentation:**  
+- [`analyze_pcap.py`](https://github.com/YOUR-GITHUB-USERNAME/YOUR-REPO-NAME/blob/main/NetAnalyzer-Suite/analyze_pcap.py) - Extracts and processes `.pcap` data.  
+- [`har_parser.py`](https://github.com/YOUR-GITHUB-USERNAME/YOUR-REPO-NAME/blob/main/NetAnalyzer-Suite/har_parser.py) - Parses `.har` files for web traffic.  
+- [`README.md`](https://github.com/YOUR-GITHUB-USERNAME/YOUR-REPO-NAME/blob/main/NetAnalyzer-Suite/README.md) - Detailed project overview.  
+
+🚀 **Features:**  
+✔ **Processes 5GB+ network data** from `.har` & `.pcap` files.  
+✔ **Handles 18,000+ packets** for detailed analysis.  
+✔ **Interactive visualizations** using **Matplotlib & Plotly**.  
+✔ **Real-time traffic capture** with Wireshark integration.  
+✔ **Reduces manual analysis by 40%** through automation.  
+
+🛠 **Technologies Used:**  
+- `Python`, `PyShark`, `TShark`, `Matplotlib`, `Plotly`, `Wireshark`  
+  
 
 
 
