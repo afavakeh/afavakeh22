@@ -30,8 +30,6 @@
 
 📂 **Project Folder:** [NetAnalyzer-Suite](https://github.com/YOUR-GITHUB-USERNAME/YOUR-REPO-NAME/tree/main/NetAnalyzer-Suite)  
 📜 **Code & Documentation:**  
-- [`analyze_pcap.py`](https://github.com/YOUR-GITHUB-USERNAME/YOUR-REPO-NAME/blob/main/NetAnalyzer-Suite/analyze_pcap.py) - Extracts and processes `.pcap` data.  
-- [`har_parser.py`](https://github.com/YOUR-GITHUB-USERNAME/YOUR-REPO-NAME/blob/main/NetAnalyzer-Suite/har_parser.py) - Parses `.har` files for web traffic.  
 - [`README.md`](https://github.com/YOUR-GITHUB-USERNAME/YOUR-REPO-NAME/blob/main/NetAnalyzer-Suite/README.md) - Detailed project overview.  
 
 🚀 **Features:**  
