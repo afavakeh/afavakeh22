@@ -27,10 +27,8 @@
 - A powerful Python-based **network traffic analysis tool** designed for processing large `.har` and `.pcap` files.  
 - Provides real-time **download size, average latency, protocol distributions**, and **IP mappings**.  
 - **Automated visualizations** for data interpretation using Matplotlib and Plotly.  
-
-📂 **Project Folder:** [NetAnalyzer-Suite](https://github.com/YOUR-GITHUB-USERNAME/YOUR-REPO-NAME/tree/main/NetAnalyzer-Suite)  
-📜 **Code & Documentation:**  
-- [`README.md`](https://github.com/YOUR-GITHUB-USERNAME/YOUR-REPO-NAME/blob/main/NetAnalyzer-Suite/README.md) - Detailed project overview.  
+  
+- [`README.md`](https://github.com/afavakeh/afavakeh22/blob/main/NetAnalyzer_Suite.pdf) - Detailed project overview.  
 
 🚀 **Features:**  
 ✔ **Processes 5GB+ network data** from `.har` & `.pcap` files.  
