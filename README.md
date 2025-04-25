@@ -45,14 +45,20 @@
 
 ---
 
-## 🔥 **Technical Skills**  
+## 🔥 Technical Skills
 
-🛠 **Programming Languages:** Python, C++, SQL, Java, JavaScript, R, Bash, HTML/CSS  
+🛠 **Languages:** Python, C++, SQL, Java, JavaScript, R, Bash, HTML/CSS  
 📊 **Machine Learning & Data Science:** TensorFlow, PyTorch, Scikit-Learn, Keras, NumPy, Pandas, Matplotlib, Seaborn  
-🌐 **Networking & Traffic Analysis:** Wireshark, PyShark, PCAP Processing, Network Protocol Analysis  
-☁ **Cloud & Visualization Tools:** AWS, Google Cloud, Docker, Flask, React, Plotly, Jupyter Notebooks  
+🌐 **Networking:** Wireshark, PyShark, PCAP Analysis, Network Protocols  
+☁ **Cloud & Tools:** AWS, Google Cloud, Docker, Flask, React, Plotly, Jupyter Notebooks  
+📝 **Web Development:** Flask, Jinja2, REST APIs  
+🔐 **Authentication:** Session Management, RBAC  
+🗄 **Database:** MySQL, Schema Design, Query Optimization  
+📋 **Document Processing:** LaTeX, PDF Generation, Form Validation  
+👥 **User & Report Management:** User Authentication, Role Management, Data Filtering, Dashboard Development  
 
 ---
+
 
 
 ## 🤝 **Connect with Me**  
