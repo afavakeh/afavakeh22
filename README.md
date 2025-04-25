@@ -9,7 +9,8 @@
 ## 📌 About Me  
 
 🎓 **Education:** [University of Houston](https://www.uh.edu/nsm/computer-science/)  
-📂 **Resume:** [Download My Resume](https://github.com/afavakeh/afavakeh22/blob/main/RESUME_5.pdf)  
+📂 **Resume:** [Download My Resume](https://afavakeh.github.io/afavakeh22/Jake_s_Resume__10_.pdf)  
+🎥 **Project Video:** [View Project Video](https://afavakeh.github.io/afavakeh22/portfolio.html)  
 🔗 **LinkedIn:** [www.linkedin.com/in/afavakeh](https://www.linkedin.com/in/afavakeh)  
 📫 **Email:** arsalan.favakeh@gmail.com  
 
@@ -27,7 +28,6 @@
 - A powerful Python-based **network traffic analysis tool** designed for processing large `.har` and `.pcap` files.  
 - Provides real-time **download size, average latency, protocol distributions**, and **IP mappings**.  
 - **Automated visualizations** for data interpretation using Matplotlib and Plotly.  
-  
 - [`README.md`](https://github.com/afavakeh/afavakeh22/blob/main/NetAnalyzer_Suite.pdf) - Detailed project overview.  
 
 🚀 **Features:**  
@@ -40,8 +40,6 @@
 🛠 **Technologies Used:**  
 - `Python`, `PyShark`, `TShark`, `Matplotlib`, `Plotly`, `Wireshark`  
   
-
-
 
 ---
 
@@ -59,13 +57,9 @@
 
 ---
 
-
-
 ## 🤝 **Connect with Me**  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/afavakeh)  
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:arsalan.favakeh@gmail.com)  
 
 ---
-
-
